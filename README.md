@@ -113,7 +113,7 @@
 | | 대회 | 결과 | 역할 | 주제 | Link |
 |:---:|:---|:---:|:---:|:---|:---:|
 | 🏆 | 세종대 제21회 창의설계경진대회 (산업협력 캡스톤) | **대상 (1위)** | 팀원 | 3DGS 기반 모듈형 디지털 트윈 플랫폼 | [Repo](https://github.com/SejongUniv-AllIsWell/modutwin) |
-| 🥇 | KCGS 2026 한국컴퓨터그래픽스학회 포스터 논문 | **우수학부포스터논문상 (1위)** | 공동저자 | 3DGS 에셋의 문 기반 정합 | [Paper](https://sejonguniv-alliswell.github.io/KCGS2026paper.pdf) |
+| 🥇 | KCGS 2026 한국컴퓨터그래픽스학회 포스터 논문 | **우수학부포스터논문상 (1위)** | 공동<br/>저자 | 3DGS 에셋의 문 기반 정합 | [Paper](https://sejonguniv-alliswell.github.io/KCGS2026paper.pdf) |
 | 🥇 | 세종대 영어 말하기 & 발표 대회 | **대상 (1위)** | 팀장 | AI가 인류 발전에 주는 영향 (10분 PT) | - |
 | 🥉 | SW·AI 중심대학 디지털 경진대회 AI 부문 | **우수상 · 3위 / 269팀** | 팀장 | 코딩 에이전트용 경량 의사결정 모델 | [Repo](https://github.com/SJU-Alliswell/2026_Digital_Competition) |
 | 🥉 | 세종대 AI 학술제 | **우수상 (3위)** | 팀장 | K-Means 기반 사용자 맞춤형 터치 키보드 | - |
