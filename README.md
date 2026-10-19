@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  🏠 Seoul, Korea &nbsp;|&nbsp; 🎓 <b>Sejong Univ.</b> Software (B.S., Feb 2027 expected) &nbsp;|&nbsp; 🔬 Immersive Media Lab Alumni &nbsp;|&nbsp; 🚀 SKALA 4th
+  🏠 Seoul, Korea &nbsp;|&nbsp; 🎓 <b>Sejong Univ.</b> Software (B.S.) &nbsp;|&nbsp; 🔬 Immersive Media Lab Alumni &nbsp;|&nbsp; 🚀 SKALA 4th
 </p>
 
 ---
@@ -80,7 +80,7 @@
 | 2026.07 ~ | **SK AI Leader Academy (SKALA) 4기** | AX 실무 교육 — MSA, Spring Backend, Vue.js |
 | 2025.01 ~ 2026.07 | **세종대 Immersive Media Lab** (학부연구생) | 3DGS 학습 과정에 렌더링 노이즈 정보 주입을 통한 Denoising, Key-frame Selection 연구 |
 | 2024.06 | **Microsoft × 대한상공회의소** 정보보안 인재양성 | Azure Cloud 기반 IT 인프라 구축·운영 및 보안 실습 (31h) |
-| 2021.02 ~ 2027.02 | **세종대학교 소프트웨어학과** | B.S. (졸업 예정) |
+| 2021.02 ~ 2027.02 | **세종대학교 소프트웨어학과** | B.S. |
 
 ---
 
