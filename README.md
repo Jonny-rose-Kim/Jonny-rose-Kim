@@ -118,7 +118,7 @@
 | 🥉 | SW·AI 중심대학 디지털 경진대회 AI 부문 | **우수상 · 3위 / 269팀** | 팀장 | 코딩 에이전트용 경량 의사결정 모델 | [Repo](https://github.com/SJU-Alliswell/2026_Digital_Competition) |
 | 🥉 | 세종대 AI 학술제 | **우수상 (3위)** | 팀장 | K-Means 기반 사용자 맞춤형 터치 키보드 | - |
 | 🎖️ | AMOREPACIFIC AI Innovation Challenge 2026 | **특별상** | 팀원 | K-Beauty 트렌드 멀티 AI Agent | [Repo](https://github.com/Jonny-rose-Kim/Amore) |
-| 📊 | LG Aimers 8기 — LLM 경량화 해커톤 | **예선 4위 / 628팀 · 본선 14위** | 팀원 | EXAONE-4.0-1.2B W8A8 양자화 | - |
+| 📊 | LG Aimers 8기 — LLM 경량화 해커톤 | **예선 4위 / 628팀 · 본선 14위** | 팀원 | EXAONE-4.0-1.2B W8A8 양자화 | [Dacon](https://dacon.io/competitions/official/236689/overview/description) |
 
 ### 📜 Patent
 
@@ -204,6 +204,7 @@
       <img src="https://img.shields.io/badge/EXAONE_4.0-A50034?style=flat-square"/>
       <img src="https://img.shields.io/badge/GPTQ-4B5563?style=flat-square"/>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <p>🔗 <a href="https://dacon.io/competitions/official/236689/overview/description">Competition (Dacon)</a></p>
     </td>
   </tr>
 </table>
