@@ -88,20 +88,20 @@
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <img src="https://img.shields.io/badge/🏆_대상-창의설계경진대회-FFD700?style=for-the-badge"/><br/>
       <b>ModuTwin</b><br/>
-      <sub>3DGS 기반 모듈형 실내 디지털 트윈 플랫폼<br/>세종대 제21회 창의설계경진대회 (2026.07)</sub>
+      <sub>3DGS 모듈형 디지털 트윈<br/>세종대 창의설계경진대회<br/>2026.07</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <img src="https://img.shields.io/badge/📄_1위-KCGS_2026-0EA5E9?style=for-the-badge"/><br/>
       <b>우수학부포스터논문상</b><br/>
-      <sub>한국컴퓨터그래픽스학회<br/><a href="https://sejonguniv-alliswell.github.io/KCGS2026paper.pdf">Paper (PDF)</a></sub>
+      <sub>한국컴퓨터그래픽스학회<br/><a href="https://sejonguniv-alliswell.github.io/KCGS2026paper.pdf">Paper (PDF)</a><br/>2026.07</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <img src="https://img.shields.io/badge/🥉_우수상-SW·AI_중심대학-C0C0C0?style=for-the-badge"/><br/>
       <b>3위 / 269팀</b><br/>
-      <sub>SW·AI 중심대학 디지털 경진대회 AI 부문<br/>협회의장상 · 팀장 (2026.08)</sub>
+      <sub>AI 디지털 경진대회<br/>협회의장상 · 팀장<br/>2026.08</sub>
     </td>
   </tr>
 </table>
